@@ -1,0 +1,12 @@
+title: Margot Neyret
+email: margot@neyret.me
+description: 'Margot Neyret - PhD student, university Pierre and Marie Curie (Paris, France)'
+baseurl: ''
+url: ''
+twitter_username: ''
+github_username: mneyret
+markdown: kramdown
+plugins:
+  - jekyll-admin
+kramdown:
+  parse_block_html: true
