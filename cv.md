@@ -17,4 +17,4 @@ bg: riz.jpg
 * 2014-2015: MSc in Ethnobotany, University of Kent, Canterbury, Royaume-Uni. "With distinction".
 * 2013-2014: Master EBE (Ecology, Biodiversity, Evolution), year 1, École Normale Supérieure de Paris.
 
-Pdf file available [here](/assets/images/cv_Neyret.pdf)
+Pdf file available <a href="/assets/images/cv_Neyret.pdf" target="_blank">here</a>
