@@ -7,10 +7,13 @@ bg: arbre.jpg
 
 # **Publications**
 
-**Neyret, M**., Bentley, L. P., Oliveras, I., Marimon, B. S., Marimon-Junior, B. H., Almeida de Oliveira, E., ... Malhi, Y. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.2281/epdf" target="_blank">Examining variation in the leaf mass per area of dominant species across two contrasting tropical gradients in light of community assembly</a>. Ecology and Evolution, 6(16), 5674-5689. DOI: 10.1002/ece3.2281
-
+Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Peixoto da Silva K., de Farias J., Almeida de Oliveira E., Almeida Farias C., dos Santos Prestes N.,
+**Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. Tree Physiology (in press)
 
 **Neyret, M**., Robain, H., de Rouw, A., Soulileuth, B. , Trisophon, K., Jumpa, K., Valentin, C. (2018). <a href="/assets/images/Neyret_et_al-2018-Soil_Use_and_Management.pdf" target="_blank">The transition from arable lands to rubber tree plantations in northern Thailand impacts weed assemblages and soil physical properties</a>. Soil Use and Management, 34(3), 404-417. DOI: 10.1111/sum.12431
+
+**Neyret, M**., Bentley, L. P., Oliveras, I., Marimon, B. S., Marimon-Junior, B. H., Almeida de Oliveira, E., ... Malhi, Y. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.2281/epdf" target="_blank">Examining variation in the leaf mass per area of dominant species across two contrasting tropical gradients in light of community assembly</a>. Ecology and Evolution, 6(16), 5674-5689. DOI: 10.1002/ece3.2281
+
 
 # **Communications in international conferences**
 
