@@ -8,7 +8,7 @@ bg: arbre.jpg
 # **Publications**
 
 Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Peixoto da Silva K., de Farias J., Almeida de Oliveira E., Almeida Farias C., dos Santos Prestes N.,
-**Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. Tree Physiology (in press)
+**Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. Tree Physiology, 38(12), 1912–1925. DOI: 10.1093/treephys/tpy117
 
 **Neyret, M**., Robain, H., de Rouw, A., Soulileuth, B. , Trisophon, K., Jumpa, K., Valentin, C. (2018). <a href="/assets/images/Neyret_et_al-2018-Soil_Use_and_Management.pdf" target="_blank">The transition from arable lands to rubber tree plantations in northern Thailand impacts weed assemblages and soil physical properties</a>. Soil Use and Management, 34(3), 404-417. DOI: 10.1111/sum.12431
 
