@@ -6,6 +6,7 @@ bg: arbre.jpg
 ---
 
 # **Publications**
+**Neyret M.**,  Robain H., de Rouw A., Janeau, J.L., Kaewthip, J., Trisophon K., and Valentin C. (2020). Rubber tree plantations increase runoff and soil detachment compared to annual crops. Catena, in  press. 
 
 Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Peixoto da Silva K., de Farias J., Almeida de Oliveira E., Almeida Farias C., dos Santos Prestes N.,
 **Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. Tree Physiology, 38(12), 1912–1925. DOI: 10.1093/treephys/tpy117
@@ -14,8 +15,18 @@ Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Pei
 
 **Neyret, M**., Bentley, L. P., Oliveras, I., Marimon, B. S., Marimon-Junior, B. H., Almeida de Oliveira, E., ... Malhi, Y. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.2281/epdf" target="_blank">Examining variation in the leaf mass per area of dominant species across two contrasting tropical gradients in light of community assembly</a>. Ecology and Evolution, 6(16), 5674-5689. DOI: 10.1002/ece3.2281
 
+PhD manuscript: ["Weeds and soil erosion in a montane agro-ecosystem of Northern Thailand: a multidisciplinary analysis"](https://tel.archives-ouvertes.fr/tel-02303886), June 2019. Creative Common license CC-BY-NC-ND. 
+
 
 # **Communications in international conferences**
+
+
+**Neyret, M.**,  Manning, P., Fischer, M (2019).  Optimising landscape composition for multiple ecosystem services. British Ecological Society conference, Belfast, UK. (oral)
+
+
+**Neyret, M.**,  Manning, P., Fischer, M (2019).  <a href="/assets/images/Symposium_Zurich_Poster_2019_Margot.pdf" target="_blank">Landscape management for grassland multifunctionality.</a> Agroscope, Zürich, Switzerland. (poster)
+
+
 **Neyret, M.**, Robain H., de Rouw A., Soulileuth B., Trisophon K., Jumpa K., and Valentin C. (2019) <a href="/assets/images/Neyret_Agroecology_and_ecology_of_agroecosystems.pdf" target="_blank">Landscape and land use history, main
 drivers of weed communities in
 mountainous SE Asia.</a>
@@ -27,7 +38,7 @@ drivers of weed communities in
 mountainous SE Asia.</a>
 Young Natural History scientists Meeting, Paris, France. (oral)
 
-**Neyret, M.**, Robain H., de Rouw A., Soulileuth B., Trisophon K., Jumpa K., and Valentin C. (2018) <a href="/assets/images/Neyret_Agroecology_and_ecology_of_agroecosystems.pdf" target="_blank">Land use changes affect plant communities in mountainous Northern Thailand.</a>
+**Neyret, M.**, Robain H., de Rouw A., Soulileuth B., Trisophon K., Jumpa K., and Valentin C. (2018) Land use changes affect plant communities in mountainous Northern Thailand. 
 Conference of the French Society of Ecology and Evolution, Rennes, France. (oral)
 
 **Neyret, M.**, Robain H., de Rouw A., Janeau, JL., Keawthip, J., Trisophon K., and Valentin C. (2018)  <a href="/assets/images/Erosion_poster_SFE18" target="_blank">Are tree plantations forests? A comparison of soil erosion under rubber tree plantations and annual crops in mountainous Northern Thailand</a>. Conference of the French Society of Ecology and Evolution, Rennes, France.
