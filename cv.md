@@ -6,7 +6,7 @@ bg: riz.jpg
 ---
 
 **Research**
-* Ongoing: Postdoctoral position at the Senckenberg Biodiversität und Klima Forschungszentrums BiK-F, Frankfurt, Germany. *Landscapes for biodiversity and ecosystem services*.
+* Ongoing: Postdoctoral position at the Senckenberg Biodiversität und Klima Forschungszentrums BiK-F, Frankfurt, Germany. 
 * PhD at the Institute for Ecology and Environmental Sciences and Institute of Research for Development, Paris, France. *Environmental changes related to the transition from croplands to perennial plantations in South-East Asia*. My manuscript can be downloaded  [here](https://tel.archives-ouvertes.fr/tel-02303886) (Creative Common license CC-BY-NC-ND).
 * Research internship, IRD-IEES, Paris. *Changes in weeds-soil interaction in the transition from annual crops to rubber tree plantations n Northern Thailand*.
 * MSc Ethnobotany thesis. *Changes in health practices and medicinal plants uses among North African migrant women in Paris*. Obtention of the University of Kent Ethnobotany Prize. 
