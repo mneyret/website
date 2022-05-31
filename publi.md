@@ -6,6 +6,14 @@ bg: arbre.jpg
 ---
 
 # **Publications**
+
+**Neyret, M.**, Fischer, M., [+ 20 auteurs] & Manning, P. (2021) Assessing the impact of grassland management on landscape multifunctionality. Ecosystem services. Available on BioRXiv: https://doi.org/10.1101/2020.07.17.208199
+
+Le Provost G., Thiele J., Westphal C., Penone C., Allan E., **Neyret M.**, [+ 49 auteurs], & Manning P. (2021). Contrasting responses of above- and belowground diversity to multiple components of land- use intensity. Nature Communications. https://doi.org/10.1038/s41467-021-23931-1 (Open Access)
+
+**Neyret, M.**, Colbach, N., de Rouw, A., Robain, H., Soulileuth, B., Valentin, C. (2020b). Year-to-year crop shifts promote weed diversity in tropical permanent rainfed cultivation. Agriculture, Ecosystem and the Environment, 301. Available on BioRXiv: https://doi.org/10.1101/2020.03.12.988469.
+
+
 **Neyret M.**,  Robain H., de Rouw A., Janeau, J.L., Kaewthip, J., Trisophon K., and Valentin C. (2020). <a href="/assets/images/Neyret_et_al_Catena_2020.pdf" target="_blank">Higher runoff and soil detachment in rubber tree plantations compared to annual cultivation is mitigated by ground cover in steep mountainous Thailand</a>. Catena, in  press. DOI: https://doi.org/10.1016/j.catena.2020.104472
 
 Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Peixoto da Silva K., de Farias J., Almeida de Oliveira E., Almeida Farias C., dos Santos Prestes N.,
@@ -20,6 +28,9 @@ PhD manuscript: ["Weeds and soil erosion in a montane agro-ecosystem of Northern
 
 # **Communications in international conferences**
 
+**Neyret, M.** et al. (2021) Identifying landscape management strategies that promote multifunctionality and social equity. Ecosystem Service Partnership conference 2021, online (oral)
+
+**Neyret, M.** et al. (2020) Landscape deintensification results in higher and more equitable ecosystem service supply. British Ecological Society conference - Festival of Ecology, online (oral)
 
 **Neyret, M.**,  Manning, P., Fischer, M (2019).  Optimising landscape composition for multiple ecosystem services. British Ecological Society conference, Belfast, UK. (oral)
 
