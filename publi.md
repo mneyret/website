@@ -6,27 +6,40 @@ bg: arbre.jpg
 ---
 
 # **Publications**
+**Neyret, M.** [+ 41 authors] & Manning, P. Landscape management strategies for multifunctionality and social equity (2023) *Nature Sustainability*. In press. Paper available at: https://rdcu.be/c3xJ8
 
-**Neyret, M.**, Fischer, M., [+ 20 auteurs] & Manning, P. (2021) Assessing the impact of grassland management on landscape multifunctionality. Ecosystem services. Available on BioRXiv: https://doi.org/10.1101/2020.07.17.208199
+Keller A. [+ 19 authors incl. **Neyret, M.**] & Penone, C. Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences (2022). *Methods in Ecology and Evolution *(open access)
 
-Le Provost G., Thiele J., Westphal C., Penone C., Allan E., **Neyret M.**, [+ 49 auteurs], & Manning P. (2021). Contrasting responses of above- and belowground diversity to multiple components of land- use intensity. Nature Communications. https://doi.org/10.1038/s41467-021-23931-1 (Open Access)
+Le Provost, G. [+ 48 authors incl. **Neyret, M.**] & Manning, P. The supply of multiple ecosystem services requires biodiversity across spatial scales (2022) *Nature Ecology and Evolution*. Paper available at:  https://rdcu.be/cZCvZ. 
 
-**Neyret, M.**, Colbach, N., de Rouw, A., Robain, H., Soulileuth, B., Valentin, C. (2020b). Year-to-year crop shifts promote weed diversity in tropical permanent rainfed cultivation. Agriculture, Ecosystem and the Environment, 301. Available on BioRXiv: https://doi.org/10.1101/2020.03.12.988469.
+Apostolakis, A. [+ 19 authors incl. **Neyret, M.**] & Schrumpf, M. (2022). Direct and indirect effects of management intensity on annual nutrient leaching in temperate grasslands. *Nutrient cycling in agroecosystems*. https://doi.org/10.1007/s10705-022-10209-1. 
+
+**Neyret, M.**, Fischer, M., [+ 20 auteurs] & Manning, P. (2021) Assessing the impact of grassland management on landscape multifunctionality. *Ecosystem services*. Available on BioRXiv: https://doi.org/10.1101/2020.07.17.208199
+
+Le Provost G., Thiele J., Westphal C., Penone C., Allan E., **Neyret M.**, [+ 49 auteurs], & Manning P. (2021). Contrasting responses of above- and belowground diversity to multiple components of land- use intensity. *Nature Communications*. https://doi.org/10.1038/s41467-021-23931-1 (Open Access)
+
+**Neyret, M.**, Colbach, N., de Rouw, A., Robain, H., Soulileuth, B., Valentin, C. (2020b). Year-to-year crop shifts promote weed diversity in tropical permanent rainfed cultivation. *Agriculture, Ecosystem and the Environment*, 301. Available on BioRXiv: https://doi.org/10.1101/2020.03.12.988469.
 
 
-**Neyret M.**,  Robain H., de Rouw A., Janeau, J.L., Kaewthip, J., Trisophon K., and Valentin C. (2020). <a href="/assets/images/Neyret_et_al_Catena_2020.pdf" target="_blank">Higher runoff and soil detachment in rubber tree plantations compared to annual cultivation is mitigated by ground cover in steep mountainous Thailand</a>. Catena, in  press. DOI: https://doi.org/10.1016/j.catena.2020.104472
+**Neyret M.**,  Robain H., de Rouw A., Janeau, J.L., Kaewthip, J., Trisophon K., and Valentin C. (2020). <a href="/assets/images/Neyret_et_al_Catena_2020.pdf" target="_blank">Higher runoff and soil detachment in rubber tree plantations compared to annual cultivation is mitigated by ground cover in steep mountainous Thailand</a>. *Catena*. DOI: https://doi.org/10.1016/j.catena.2020.104472
 
 Gvozdevaite A., Oliveras I., Domingues T., Peprah T., Boakye M., Afriyie L., Peixoto da Silva K., de Farias J., Almeida de Oliveira E., Almeida Farias C., dos Santos Prestes N.,
-**Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. Tree Physiology, 38(12), 1912–1925. DOI: 10.1093/treephys/tpy117
+**Neyret M.**, Moore S., Schwantes Marimon B., Marimon Junior B. H., Adu-Bredu S., Malhi Y. (2018). <a href="https://academic.oup.com/treephys/advance-article/doi/10.1093/treephys/tpy117/5155328" target="_blank">Leaf-level photosynthetic capacity dynamics in relation to soil and foliar nutrients along forest-savanna boundaries in Ghana and Brazil</a>. *Tree Physiology*, 38(12), 1912–1925. DOI: 10.1093/treephys/tpy117
 
-**Neyret, M**., Robain, H., de Rouw, A., Soulileuth, B. , Trisophon, K., Jumpa, K., Valentin, C. (2018). <a href="/assets/images/Neyret_et_al-2018-Soil_Use_and_Management.pdf" target="_blank">The transition from arable lands to rubber tree plantations in northern Thailand impacts weed assemblages and soil physical properties</a>. Soil Use and Management, 34(3), 404-417. DOI: 10.1111/sum.12431
+**Neyret, M**., Robain, H., de Rouw, A., Soulileuth, B. , Trisophon, K., Jumpa, K., Valentin, C. (2018). <a href="/assets/images/Neyret_et_al-2018-Soil_Use_and_Management.pdf" target="_blank">The transition from arable lands to rubber tree plantations in northern Thailand impacts weed assemblages and soil physical properties</a>. *Soil Use and Management*, 34(3), 404-417. DOI: 10.1111/sum.12431
 
-**Neyret, M**., Bentley, L. P., Oliveras, I., Marimon, B. S., Marimon-Junior, B. H., Almeida de Oliveira, E., ... Malhi, Y. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.2281/epdf" target="_blank">Examining variation in the leaf mass per area of dominant species across two contrasting tropical gradients in light of community assembly</a>. Ecology and Evolution, 6(16), 5674-5689. DOI: 10.1002/ece3.2281
+**Neyret, M**., Bentley, L. P., Oliveras, I., Marimon, B. S., Marimon-Junior, B. H., Almeida de Oliveira, E., ... Malhi, Y. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.2281/epdf" target="_blank">Examining variation in the leaf mass per area of dominant species across two contrasting tropical gradients in light of community assembly</a>. *Ecology and Evolution*, 6(16), 5674-5689. DOI: 10.1002/ece3.2281
 
 PhD manuscript: ["Weeds and soil erosion in a montane agro-ecosystem of Northern Thailand: a multidisciplinary analysis"](https://tel.archives-ouvertes.fr/tel-02303886), June 2019. Creative Common license CC-BY-NC-ND. 
 
 
 # **Communications in international conferences**
+
+**Neyret, M.** et al. (2022) Slow-fast trait synchrony at the level of whole ecosystems. British Ecological Society, Edinburgh, UK (oral)
+
+**Neyret, M.** et al. (2022) Landscape management for multifunctionality and social equity. Joint conference of the French Ecological Society and the German Ecological society, Metz, France (oral)
+
+**Neyret, M.** et al. (2022) Slow-fast trait synchrony at the level of whole ecosystems. International Ecology Conference (INTECOL), Geneva, Switzerland (oral)
 
 **Neyret, M.** et al. (2021) Identifying landscape management strategies that promote multifunctionality and social equity. Ecosystem Service Partnership conference 2021, online (oral)
 
