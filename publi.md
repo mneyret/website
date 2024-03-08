@@ -6,7 +6,12 @@ bg: arbre.jpg
 ---
 
 # **Publications**
-**Neyret, M.** [+ 41 authors] & Manning, P. Landscape management strategies for multifunctionality and social equity (2023) *Nature Sustainability*. In press. Paper available at: https://rdcu.be/c3xJ8
+
+**Neyret, M.** [+ 52 authors] & Manning, P. Slow-fast trait synchrony at the level of whole ecosystems (2024). *Nature Communications*. Doi: [10.1038/s41467-024-45113-5](https://www.nature.com/articles/s41467-024-45113-5)
+
+Freitag, M [+19 aithors incl. **Neyret, M**] & Klaus, V. Increasing plant richness by seeding has marginal effects on ecosystem functioning in agricultural grasslands (2023). *Journal of Ecology*. https://doi.org/10.1111/1365-2745.14154
+
+**Neyret, M.** [+ 41 authors] & Manning, P. Landscape management strategies for multifunctionality and social equity (2023) *Nature Sustainability*. Paper available at: https://rdcu.be/c3xJ8
 
 Keller A. [+ 19 authors incl. **Neyret, M.**] & Penone, C. Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences (2022). *Methods in Ecology and Evolution *(open access)
 

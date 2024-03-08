@@ -4,19 +4,20 @@ layout: page
 bg: lierre.jpg
 ---
 
-<img src="/assets/images/me.jpg" alt = "portrait" align = "right" style="width:135px;height:180px">
+<img src="/assets/images/Neyret_Profile_piclight.jpeg" alt = "portrait" align = "right" style="width:135px;height:180px">
+  
+My research has focused on the effect of anthropogenic and environmental drivers on plant and multitrophic com- munities, as well as their repercussions on ecosystem functioning and Nature’s Contributions to People (NCP). I have investigated the mechanisms structuring plant and multi-taxa communities to environmental gradients, using both taxonomic and functional trait approaches, at different temporal and spatial scales. 
 
-Hi! I am Margot,  currently working as a postdoctoral researcher in the[ Causes and Consequences of Biodiversity Change  group](http://www.bik-f.de/root/index.php?page_id=1227) of the Senckenberg  BiK-F in Frankfurt, Germany, as part of the [Biodiversity Exploratories](http://www.biodiversity-exploratories.de/1/home/). 
 
-Before that, I worked as a PhD candidate in Sorbonne Universités (Paris, France) and Institute of Research for Development, where I studied the interactions between non-cultivated plant communities, farming practices and soil characteristics in Northern Thailand.
 
+Over time, I have adopted increasingly interdisciplinary approaches to investigate the impact of land use on ecosystem functioning and the NCP it underpins. Combining ecological and social-ecological data in detailed landscape modelling approaches allowed me to assess the impact of landscape-level land use on the overall benefits derived by people from ecosystems. One originality of my research is thus to address the gap between the ecological (i.e. process-based relationships between biodiversity and ecosystem functioning) and social (quality of life; social trade-offs between stakeholders) components of social-ecological systems.
 
 
 <img src="/assets/images/P2271299.JPG"  style="width:340px;height:240px"> <img src="/assets/images/Landscape Alb.jpg"  style="width:340px;height:240px">
 
-*My study areas in Northern Thailand and in Germany. Photo credit: Margot Neyret and Pete Manning*
+*Some of my study areas in Northern Thailand and in Germany. Photo credit: Margot Neyret and Peter Manning*
 
 
-As a community ecologist by training, much of my work has focused on understanding the mechanisms structuring biological communities in response to environmental constraints and land use. I used both taxonomic and functional trait approaches to understand the response of plant and multi-taxa communities to environmental gradients, at different temporal and spatial scales.
+I am currently a Marie Sklodowska-Curie postdoctoral fellow at the Alpine Ecology Laboratory (LECA) in Grenoble, France on the project EquitES: Towards high and Equitable Nature's Contributions to people in the face of global changes. I am also associated to the [RECONNECT](https://www.biodiversa.eu/2023/04/19/reconnect/) Bioriversa+ projet "Reconciling fragmented and contested landscapes". Through these projects, I focus on how restoration of landscape connectivity can promote both biodiversity and equitable Nature's contributions to different social groups.
 
-Over time, I have adopted increasingly interdisciplinary approaches as I developed my research within the field of ecosystem service science. My work focuses on assessing the impact of nature on human quality of life  and thus acknowledges the need to integrate both ecosystem conservation and human needs into environmental policies.  One originality of my research is thus to address the gap between the ecological (i.e. process-based relationships between biodiversity and ecosystem functioning) and social (Nature’s contributions to human well-being; social trade-offs between stakeholders) components of social-ecological systems.
+My first postdoctoral stay was  in the [ Causes and Consequences of Biodiversity Change  group](http://www.bik-f.de/root/index.php?page_id=1227) of the Senckenberg  BiK-F in Frankfurt, Germany, as part of the [Biodiversity Exploratories](http://www.biodiversity-exploratories.de/1/home/), where I focused on community-level functional responses to land use intensity and landscape multifunctionality. Before that, I worked as a PhD candidate in Sorbonne Universités (Paris, France) and Institute of Research for Development, where I studied the interactions between non-cultivated plant communities, farming practices and soil characteristics in Northern Thailand.
