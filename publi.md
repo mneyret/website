@@ -6,10 +6,26 @@ bg: arbre.jpg
 ---
 
 # **Publications**
+### 2025
+Andersson, E., Martin, R., Anderson, P., Brooks, S., Capano, G.C., González-García, A., Hakkarainen, V., Jay, M., Lavorel, S., **Neyret, M.**, Plieninger, T., Raymond, C.M., 2025. Resilient Biodiversity Conservation: Working with Social–Ecological Connections to Navigate Crises. *BioScience* biaf156. https://doi.org/10.1093/biosci/biaf156
+
+Locatelli, B., Lavorel, S., Colloff, M.J., Crouzat, E., Bruley, E., Fedele, G., Grêt-Regamey, A., Plieninger, T., Andersson, E., Abbott, M., Butler, J., Devisscher, T., Djoudi, H., Dubo, T., González-García, A., Karim, P.G., Múnera-Roldán, C., **Neyret, M.**, Quétier, F., Salliou, N., Walters, G., 2025. Intertwined people–nature relations are central to nature-based adaptation to climate change. *Philosophical Transactions of the Royal Society B: Biological Sciences* 380, 20230213. https://doi.org/10.1098/rstb.2023.0213
+
+Mauki, D.G., Manning, P., Schleuning, M., Hemp, A., Schellenberger Costa, D., Sierra Cornejo, N., Becker, J.N., Ensslin, A., Rutten, G., Appelhans, T., **Neyret, M.**, 2025. Community-level plant functional strategies explain ecosystem carbon storage across a tropical elevational gradient. *Journal of Ecology* 113, 3328–3344. https://doi.org/10.1111/1365-2745.70162
+
+**Neyret, M.**, Richards, D., Prima, M.-C., Etherington, T.R., Lavorel, S., 2025. One cannot have it all: Trading-off ecosystem services and biodiversity bundles in landscape connectivity restoration. *Biological Conservation* 302, 110946. https://doi.org/10.1016/j.biocon.2024.110946
+
+O’Brien, S.A., Tylianakis, J.M., Anderson, D.P., Boesing, A.L., Lai, H.R., Le Provost, G., Manning, P., **Neyret, M.**, Blüthgen, N., Jung, K., Magdon, P., Müller, S., Schenk, N.V., Scherer-Lorenzen, M., Lavorel, S., 2025. Mobile species’ responses to surrounding land use generate trade-offs and synergies among nature’s contributions to people. *Proc Natl Acad Sci* U S A 122, e2505401122. https://doi.org/10.1073/pnas.2505401122
+
+### 2024
+Boesing, A.L., Klaus, V.H., **Neyret, M.**, Le Provost, G., Peter, S., Fischer, M., Manning, P., 2024. Identifying the optimal landscape configuration for landscape multifunctionality. *Ecosystem Services* 67, 101630. https://doi.org/10.1016/j.ecoser.2024.101630
+
+Springer, K., Manning, P., Boesing, A.L., Ammer, C., Fiore-Donno, A.M., Fischer, M., Goldmann, K., Le Provost, G., Overmann, J., Ruess, L., Schöning, I., Seibold, S., Sikorski, J., **Neyret, M.**, 2024. Identifying the stand properties that support both high biodiversity and carbon storage in German forests. *Forest Ecology and Management* 572, 122328. https://doi.org/10.1016/j.foreco.2024.122328
 
 **Neyret, M.** [+ 52 authors] & Manning, P. Slow-fast trait synchrony at the level of whole ecosystems (2024). *Nature Communications*. Doi: [10.1038/s41467-024-45113-5](https://www.nature.com/articles/s41467-024-45113-5)
 
-Freitag, M [+19 aithors incl. **Neyret, M**] & Klaus, V. Increasing plant richness by seeding has marginal effects on ecosystem functioning in agricultural grasslands (2023). *Journal of Ecology*. https://doi.org/10.1111/1365-2745.14154
+### 2023 and earlier
+Freitag, M [+19 authors incl. **Neyret, M**] & Klaus, V. Increasing plant richness by seeding has marginal effects on ecosystem functioning in agricultural grasslands (2023). *Journal of Ecology*. https://doi.org/10.1111/1365-2745.14154
 
 **Neyret, M.** [+ 41 authors] & Manning, P. Landscape management strategies for multifunctionality and social equity (2023) *Nature Sustainability*. Paper available at: https://rdcu.be/c3xJ8
 
